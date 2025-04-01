@@ -1,5 +1,5 @@
 export const configurazione = {
-  testo: "M",
+  testo: "Ciconia Summer Festival",
 
   dimensione: 0.8,
   interlinea: 0.7,
