@@ -1,5 +1,5 @@
 export const configurazione = {
-  testo: "G",
+  testo: "M",
 
   dimensione: 0.8,
   interlinea: 0.7,
@@ -9,7 +9,7 @@ export const configurazione = {
   sensibilitàMicrofonoBase: 1,
   densitàPuntiBase: 1,
 
-  nascondiInterfaccia: false,
+  nascondiInterfaccia: true,
 };
 
 /**
